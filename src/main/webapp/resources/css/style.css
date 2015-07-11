@@ -1,0 +1,14 @@
+header{
+	padding:10px;
+	font-size: 2em;
+	text-align:center;
+}
+.contenedorLogin {
+	width: 500px;
+	margin: 0 auto;
+	padding: 20px;
+	border-radius: 10px;
+}
+.form-group-overflow{
+	overflow:auto;	
+}
